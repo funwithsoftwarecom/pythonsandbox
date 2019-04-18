@@ -27,5 +27,3 @@ def calculate_payment(beginning_principal,annual_percentage_rate,payment_periods
 
 
 
-print(calculate_payment(20000, 7.5, 60)) 
-print("Done")
